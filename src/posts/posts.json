@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Git basics to get up and running",
+        "description": "Learn about git and all the basic commands you need to know, to be able to confidently work on projects without the fear of making irreversible mistakes.",
+        "image": "",
+        "url": "/git-up-and-running",
+        "released": false
+    },
+    {
+        "title": "AWS Lambda: Getting started",
+        "description": "We take a look at AWS Lambda, AWS's own serverless solution, using a simple project to get familiar with it.",
+        "image": "",
+        "url": "/aws-lambda",
+        "released": false
+    },
+    {
+        "title": "Basic CI/CD Setup with Github and Gitlab",
+        "description": "Life would be so much easier, if you could just focus on developing and someone else could handle testing and deployment for you *wink*.",
+        "image": "",
+        "url": "/ci-cd-setup",
+        "released": false 
+    }
+]
